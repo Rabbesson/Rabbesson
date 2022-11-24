@@ -1,4 +1,4 @@
-﻿#######
+﻿kalleost
 Import-Module ActiveDirectory
 
 function AddAdgroup {
