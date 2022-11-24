@@ -1,5 +1,5 @@
 ﻿#######
-FUCK
+FUCK YAHHH
 Import-Module ActiveDirectory
 
 function AddAdgroup {
