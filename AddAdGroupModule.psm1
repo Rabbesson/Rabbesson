@@ -48,4 +48,5 @@ $CheckAdGroupMember3 = Get-ADGroupMember -Identity $Adgroup3 | where {$_.name -e
 }
 
 Never againrrrr
+shutdown.exe
   
