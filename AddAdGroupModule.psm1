@@ -1,4 +1,4 @@
-﻿
+﻿#######
 Import-Module ActiveDirectory
 
 function AddAdgroup {
