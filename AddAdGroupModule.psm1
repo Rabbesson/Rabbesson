@@ -1,5 +1,4 @@
-﻿#######
-FUCK YAHHH
+﻿YES WEE CAN
 Import-Module ActiveDirectory
 
 function AddAdgroup {
