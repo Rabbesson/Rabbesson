@@ -1,5 +1,5 @@
 ﻿#######
-FUCK YAHHH
+DuvetVD!!!
 Import-Module ActiveDirectory
 
 function AddAdgroup {
